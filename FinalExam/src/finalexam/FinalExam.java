@@ -1,7 +1,7 @@
 package finalexam;
 
 /**
- * Module8:FinalProgram
+ * Module8:FinalExam
  * 
  * @author Brady Mathis <brady.mathis@csuglobal.edu>
  *

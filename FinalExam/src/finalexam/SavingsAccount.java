@@ -30,7 +30,7 @@ public class SavingsAccount extends BankAccount  {
     // Override superclass statement method to include interest with printed output
     public void printStatement() {
         super.printStatement();
-        System.out.println("Annual interst rate:  " + getInterestRate());
+        System.out.println("Annual interest rate:  " + getInterestRate());
     }
     
     public double getInterestRate() {
